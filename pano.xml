@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17985" start="node13" appversion="6.1.9">
+  <panorama id="node13">
+    <input flat="1" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" cylinder="1" levelingroll="0" width="1920" leveltilesize="510" height="1080" levelingpitch="0" levelbias="0.400">
+      <level width="1920" height="1080" preload="0" predecode="0"/>
+      <level width="960" height="540" preload="0" predecode="0"/>
+      <level width="480" height="270" preload="1" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" tags="Agrosavia" longitude="" title="Inicio" description="" customnodeid="" info="" author="" comment="" source="" latitude="" nodeid="node13" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="39.42" id="Point01" tilt="-17.86" skinid="ht_node" title="Terreno plano - Cultivo Adulto" description="" url="{node1}" target="-99.5/-2.4/120.0"/>
+      <hotspot pan="-1.93" id="Point02" tilt="-17.91" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 1" description="" url="{node7}" target="-177.8/-2.8/120.0"/>
+      <hotspot pan="-39.2" id="Point03" tilt="-17.18" skinid="ht_node" title="Terreno Ladera - Cultivo Joven" description="" url="{node11}" target="-175.6/-13.7/120.0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="493.02" tags="editadas|TerrenoPlanoCultivoAdulto" longitude="-73.199215" title="Terreno plano - Cultivo Adulto" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.443364" nodeid="node1" datetime="29/09/2020 7:56 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-94.66" id="Point01" tilt="1.07" skinid="ht_info" title="" description="El modelo de siembra de cacaos especiales con maderas finas tropicales propuesto desde AGROSAVIA, comprende un sistema agroforestal en el que se integra una especie arbórea  y una especie cultivable en la misma área con el fin de brindar un nivel de luz adecuado al cultivo y mejorar los ingresos del productor &#xa;&#xa;" url="" target=""/>
+      <hotspot pan="-272.03" id="Point02" tilt="-1.22" skinid="ht_info" title="" description="El abarco Abarco (Cariniana pyriformis), la especie forestal sugerida en este diseño, otorga un nivel de luz a las plantas de cacao, aproximadamente del 60% de la radiación total, lo cual beneficia la fase productiva del cultivo" url="" target=""/>
+      <hotspot pan="-160.43" id="Point03" tilt="-4.02" skinid="ht_info" title="" description="El Modelo agroforestal de cacao con maderas finas tropicales brinda beneficios productivos, sanitarios, ambientales y económicos para el productor en el corto, mediano y largo plazo " url="" target=""/>
+      <hotspot pan="-191.02" id="Point04" tilt="-5.2" skinid="ht_node" title="Terreno plano - Cultivo adulto 2" description="" url="{node2}" target="-175.0/-5.7/120.0" distance="120.826"/>
+      <hotspot pan="-57.3" id="Point05" tilt="-1.62" skinid="ht_node" title="Inicio" description="" url="{node13}" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="494.39" tags="editadas|TerrenoPlanoCultivoAdulto" longitude="-73.199848" title="Terreno plano - Cultivo adulto 2" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.444251" nodeid="node2" datetime="29/09/2020 8:09 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-198.246" id="Point01" tilt="-14.53" skinid="ht_node" title="Terreno plano - Cultivo Adulto" description="" url="{node1}" target="$fwd" distance="120.826"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="614.96" tags="editadas|TerrenoLaderaCultivoAdulto" longitude="-73.181285" title="Terreno Ladera - Cultivo Adulto 1" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.372656" nodeid="node7" datetime="29/09/2020 9:48 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-179.62" id="Point01" tilt="-8.97" skinid="ht_info" title="" description="El modelo de siembra de cacaos especiales con maderas finas tropicales propuesto desde AGROSAVIA, comprende un sistema agroforestal en el que se integra una especie arbórea  y una especie cultivable en la misma área con el fin de brindar un nivel de luz adecuado al cultivo y mejorar los ingresos del productor&#xa;" url="" target=""/>
+      <hotspot pan="-189.55" id="Point02" tilt="-13.97" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 2" description="" url="{node3}" target="134.2/-9.9/120.0" distance="271.254"/>
+      <hotspot pan="-169.67" id="Point03" tilt="-13.36" skinid="ht_node" title="Inicio" description="" url="{node13}" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="620.95" tags="editadas|TerrenoLaderaCultivoAdulto" longitude="-73.180471" title="Terreno Ladera - Cultivo Adulto 2" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.370354" nodeid="node3" datetime="29/09/2020 9:09 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-238.37" id="Point01" tilt="-10.02" skinid="ht_info" title="" description="Para el establecimiento del cultivo, primero se debe realizar la siembra del sombrío permanente, para lo cual AGROSAVIA sugiere la especie maderable Abarco (Cariniana pyriformis), que se debe ubicar en barreras de líneas dobles, separadas por dieciséis metros entre sí" url="" target=""/>
+      <hotspot pan="-248.2" id="Point02" tilt="-15.66" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 3" description="" url="{node6}" target="24.6/-3.7/120.0" distance="20.3597"/>
+      <hotspot pan="-229.03" id="Point03" tilt="-15.18" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 1" description="" url="{node7}" target="-179.3/-13.9/120.0" distance="271.254"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="629.58" tags="editadas|TerrenoLaderaCultivoAdulto" longitude="-73.180405" title="Terreno Ladera - Cultivo Adulto 3" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.370183" nodeid="node6" datetime="29/09/2020 9:15 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-359.23" id="Point01" tilt="-4.91" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 4" description="" url="{node5}" target="87.5/-1.6/120.0" distance="21.4222"/>
+      <hotspot pan="-339.25" id="Point02" tilt="-5.12" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 2" description="" url="{node3}" target="134.3/-8.4/120.0" distance="20.3597"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="622.81" tags="editadas|TerrenoLaderaCultivoAdulto" longitude="-73.180421" title="Terreno Ladera - Cultivo Adulto 4" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.370375" nodeid="node5" datetime="29/09/2020 9:11 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-280.04" id="Point01" tilt="-5.08" skinid="ht_info" title="" description="En los espacios de diecisésis metros entre árboles forestales, se establecen cinco surcos o líneas de cacao, con distancias de tres metros por tres metros entre sí en tresbolillo, dejando dos metros de distancia de los surcos maderables" url="" target=""/>
+      <hotspot pan="-288.23" id="Point02" tilt="-10.46" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 5" description="" url="{node9}" target="-124.9/-11.6/120.0" distance="287.631"/>
+      <hotspot pan="-272.81" id="Point03" tilt="-11.12" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 3" description="" url="{node6}" target="23.6/-2.8/120.0" distance="21.4222"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="614.11" tags="editadas|TerrenoLaderaCultivoAdulto" longitude="-73.181124" title="Terreno Ladera - Cultivo Adulto 5" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.372866" nodeid="node9" datetime="29/09/2020 9:54 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-126.22" id="Point02" tilt="-7.89" skinid="ht_info" title="" description="En los espacios de diecisésis metros entre árboles forestales, se establecen cinco surcos o líneas de cacao, con distancias de tres metros por tres metros entre sí en tresbolillo, dejando dos metros de distancia de los surcos maderables" url="" target=""/>
+      <hotspot pan="-126.27" id="Variedades de Cacao Agrosavia" tilt="-18.76" skinid="ht_url" title="" description="https://www.youtube.com/watch?v=ttzykclrae0&amp;t=3s" url="https://www.youtube.com/watch?v=ttzykclrae0&amp;t=3s" target="_blank"/>
+      <hotspot pan="-138.31" id="Point01" tilt="-13.22" skinid="ht_node" title="Inicio" description="" url="{node13}" target=""/>
+      <hotspot pan="-111.96" id="Point03" tilt="-12.23" skinid="ht_node" title="Terreno Ladera - Cultivo Adulto 4" description="" url="{node5}" target="84.4/-6.7/120.0" distance="287.631"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" width="1440" leveltilesize="510" height="1440" levelingpitch="0" levelbias="0.400">
+      <level width="1440" height="1440" preload="0" predecode="0"/>
+      <level width="720" height="720" preload="0" predecode="0"/>
+      <level width="360" height="360" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="130"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovstereographic="270" fovfisheye="360" pan="360" tilt="90" scaletofit="1" fov="120"/>
+    </view>
+    <userdata heading="0" copyright="" altitude="916.19" tags="editadas|TerrenoladeraCultivoJoven" longitude="-73.166908" title="Terreno Ladera - Cultivo Joven" description="" customnodeid="" info="" author="" comment="" source="" latitude="7.324021" nodeid="node11" datetime="29/09/2020 11:12 a. m."/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderalpha="1" backgroundcolor="0xffffff" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" textalpha="1" borderradius="1" background="1" wordwrap="1" height="20" backgroundalpha="1" border="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098"/>
+      <hotspot pan="-155.72" id="Point01" tilt="-10.27" skinid="ht_info" title="" description="El establecimiento de estos arreglos debe ejecutarse previa planificación. Una vez preparado el terreno, se efectúa el trazo de todas las especies para la siembra, procurando que los surcos estén orientados de norte a sur y acorde con la pendiente del terreno donde se realice" url="" target=""/>
+      <hotspot pan="-185.58" id="Point02" tilt="-11.4" skinid="ht_info" title="" description="El establecimiento de estos arreglos debe ejecutarse previa planificación. Una vez preparado el terreno, se efectúa el trazo de todas las especies para la siembra, procurando que los surcos estén orientados de norte a sur y acorde con la pendiente del terreno donde se realice" url="" target=""/>
+      <hotspot pan="-171.53" id="Point03" tilt="-11.39" skinid="ht_node" title="Inicio" description="" url="{node13}" target=""/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="20" zoomoutpause="1" zoomout="0" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomin="0" type="crossdissolve" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" contextfullscreen="1" lockedkeyboardzoom="0" hideabout="0" invertwheel="0" sensitivity="8" rubberband="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata heading="0" copyright="" tags="" longitude="" title="" description="" customnodeid="" info="" author="" comment="" source="" latitude="" nodeid="master" datetime=""/>
+  </masternode>
+</tour>
